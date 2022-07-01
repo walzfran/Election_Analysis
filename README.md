@@ -47,8 +47,6 @@ Module Three Challenge
 
 ![Candidate_Breakdown](https://github.com/walzfran/Election_Analysis/blob/main/Candidate_Breakdown.png)
 
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
 ## Election Audit Summary
 ### When starting this code, we were informed that Tom and Seth would want this to be versatile code so they could use it for other elections. Depending on what kind of election they were having you can alter the script to fit what they are looking for. We have created script that counts the total number of votes, we then break down the total number of votes by county and assign a percentage of the the toal votes cast and have the largest turnout county populated and then the same thing for the candidates whcih then populates the winner of the election. 
 
